@@ -34,6 +34,7 @@ class HomeScreen extends React.Component {
   render() {
    
     return (
+      
       <View style={{ flex: 1, alignItems: 'center', justifyContent:'center', backgroundColor:'#97A891'}}>
         <Text style={{fontSize:36,color:'green',padding:5, marginBottom:10, fontWeight: 'bold'}}>
           Welcome To Areon
